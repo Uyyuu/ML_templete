@@ -29,7 +29,7 @@
     └── visualization   #可視化
 ```
 
-##　 セットアップ
+## セットアップ
 
 - .env ファイルを作成(.env.sample を参考にする．)
 - .env ファイルの `COMPOSE_PROJECT_NAME` を設定する．
