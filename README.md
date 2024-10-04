@@ -36,3 +36,7 @@
   - この時の設定名がコンテナの名前になります．
 - VSCode のコマンドパレットを開き，`Dev Containers: Reopen Container`を選択．
   - コマンドパレットのショートカット（［Command］＋［Shift］＋［P］キー）
+
+## 参考サイト
+
+- [ディレクトリ構成](https://zenn.dev/pluck/articles/63413cdd51f790)
